@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'README',
+    title: 'James.README',
   },
   plugins: ['gatsby-plugin-react-helmet'],
   pathPrefix: `/README`,
