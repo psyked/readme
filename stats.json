@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-96f4561f8567e73e2d89.js",
-      "component---src-pages-index-js-96f4561f8567e73e2d89.js.map"
+      "component---src-pages-index-js-57e7c4af63fe74dd5dda.js",
+      "component---src-pages-index-js-57e7c4af63fe74dd5dda.js.map"
     ],
     "path---": [
       "path----f595fe98d84e3eb78e47.js",
@@ -12,31 +12,39 @@
       "component---src-layouts-index-js-0b5ebe8375c5c64b2bb7.js",
       "component---src-layouts-index-js-0b5ebe8375c5c64b2bb7.js.map"
     ],
+    "component---src-pages-reading-list-js": [
+      "component---src-pages-reading-list-js-b54f96e189935f1431da.js",
+      "component---src-pages-reading-list-js-b54f96e189935f1431da.js.map"
+    ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
       "path---index-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-404-js": [
-      "component---src-pages-404-js-f6662393a31fb18d5e07.js",
-      "component---src-pages-404-js-f6662393a31fb18d5e07.js.map"
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
     ],
     "commons": [
-      "commons-a70beb7fbf4c1aa4562e.js",
-      "commons-a70beb7fbf4c1aa4562e.js.map"
+      "commons-1c470a546879368fe84f.js",
+      "commons-1c470a546879368fe84f.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-d6b45548876163536321.js",
+      "app-b0383419e48d0b3ee0c2.js",
       "build-js-styles.css",
-      "app-d6b45548876163536321.js.map",
+      "app-b0383419e48d0b3ee0c2.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
       "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---reading-list": [
+      "path---reading-list-a0e39f21c11f6a62c5ab.js",
+      "path---reading-list-a0e39f21c11f6a62c5ab.js.map"
     ]
   }
 }
